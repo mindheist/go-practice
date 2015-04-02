@@ -42,24 +42,4 @@ func main(){
 	fmt.Println("slice 2 = " , l1)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
